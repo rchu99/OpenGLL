@@ -1,0 +1,18 @@
+Scenes in 3D
+- Models of a neighborhood with multiple houses and cars
+Raymond Chu
+CSCI4229/5229 Summer 2024
+
+Key bindings
+  left/right = arrow rotates around x-axis
+  up/down = arrow rotates around y-axis
+  
+  ESC = exit program
+  '0' = reset view
+  '1' = Change to FPV
+  '2' = Change to Perspective
+  '3' = Change to Orthogonal
+  '4' = Zoom in
+  '5' = Zoom out
+  'UP_Arrow','DOWN_Arrow' = Rotate view around y-axis
+  'LEFT_Arrow','RIGHT_Arrow' = Rotate view around x-axis

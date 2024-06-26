@@ -1,0 +1,17 @@
+Lorenz Attractor
+- Identifies numbers of primes, composite, even & composite and color coordinates them.
+Raymond Chu
+CSCI4229/5229 Summer 2024
+
+Key bindings
+  left/right = arrow rotates around x-axis
+  up/down = arrow rotates around y-axis
+  
+  ESC = exit program
+  '0' = reset view
+  '1' = increase rho by .25
+  '2' = decrease rho by .25
+  '3' = increase sigma by .25
+  '4' = decrease sigma by .25
+  '5' = increase beta by .25
+  '6' = decrease beta by .25
